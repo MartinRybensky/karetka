@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 
+
 # karetka.py - application made for conversion of tablet weaving patterns in CSV format
 # into instructions (which direction should be turned each tablet on each row and so on)
 # in the HTML or TXT form
@@ -114,7 +115,7 @@ while True: # infinite loop until pressed y/n
           delimiter = ','          
     
         line += 1 # row count, +1 for each loop
-        step = line - 1 
+        step = line - 2
 
         # save the column count into variable
         if line == 1:
