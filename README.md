@@ -1,7 +1,7 @@
 # karetka
 
 
-An application made for conversion of tablet weaving patterns in CSV formatvinto instructions (which direction should be turned each tablet on each row and so on) in the HTML or TXT form.
+An application made for conversion of tablet weaving patterns in CSV format into instructions (which direction should be turned each tablet on each row and so on) in the HTML or TXT form.
 
 
 Requirements: Python 2
