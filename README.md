@@ -7,7 +7,7 @@ Required input format is CSV, values separated by semicolon, first line have to 
 
 Example input file is provided as example.csv.
 
-Example output of processed example.csv file also can be found in this repository, please see files example.html and example.txt.
+Example output of processed example.csv file can also be found in this repository, please see files example.html and example.txt.
 
 
 
