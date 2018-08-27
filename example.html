@@ -1,0 +1,32 @@
+<html>
+<style>
+body { font-family: Sans-Serif; font-size: 10pt; }
+table { border-collapse: collapse; border: 1px solid #000; font-size: 10pt; }
+.header { background-color: #000; color: #FFF; padding-top: 2px; padding-bottom: 2px; font-weight: bold; text-align: center; }
+td { padding-right: 3px; padding-left: 6px; font-size: 10pt; border: 1px solid #000; }
+#frame { border: 0px; padding: 0px; margin: 0px auto; border-spacing: 0px; }
+.light { background-color: FAFAFA; }
+.dark { background-color: F1F1F1; }
+.selected { background-color: #A1A1A1; color: #F1F1F1; }
+</style>
+
+<center>
+<div id="frame">
+<table>
+<tr class="header"><td>step</td><td>forwards</td><td>backwards</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>1</b></td><td>1-14</td><td></td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>2</b></td><td>1-7,10-14</td><td>8-9</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>3</b></td><td>1-7,10-14</td><td>8-9</td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>4</b></td><td>1,6-7,14</td><td>2-5,8-13</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>5</b></td><td>1,6-7,14</td><td>2-5,8-13</td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>6</b></td><td>1,14</td><td>2-13</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>7</b></td><td>1,14</td><td>2-13</td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>8</b></td><td>1-14</td><td></td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>9</b></td><td>1-14</td><td></td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>10</b></td><td>1-7,10-14</td><td>8-9</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>11</b></td><td>1-7,10-14</td><td>8-9</td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>12</b></td><td>1,6-7,14</td><td>2-5,8-13</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>13</b></td><td>1,6-7,14</td><td>2-5,8-13</td></tr>
+<tr class="light" onclick="this.className='selected'"><td><b>14</b></td><td>1,14</td><td>2-13</td></tr>
+<tr class="dark" onclick="this.className='selected'"><td><b>15</b></td><td>1,14</td><td>2-13</td></tr>
+</table></div>

@@ -1,0 +1,60 @@
+step 1
+forwards: 1-14
+backwards: 
+
+step 2
+forwards: 1-7,10-14
+backwards: 8-9
+
+step 3
+forwards: 1-7,10-14
+backwards: 8-9
+
+step 4
+forwards: 1,6-7,14
+backwards: 2-5,8-13
+
+step 5
+forwards: 1,6-7,14
+backwards: 2-5,8-13
+
+step 6
+forwards: 1,14
+backwards: 2-13
+
+step 7
+forwards: 1,14
+backwards: 2-13
+
+step 8
+forwards: 1-14
+backwards: 
+
+step 9
+forwards: 1-14
+backwards: 
+
+step 10
+forwards: 1-7,10-14
+backwards: 8-9
+
+step 11
+forwards: 1-7,10-14
+backwards: 8-9
+
+step 12
+forwards: 1,6-7,14
+backwards: 2-5,8-13
+
+step 13
+forwards: 1,6-7,14
+backwards: 2-5,8-13
+
+step 14
+forwards: 1,14
+backwards: 2-13
+
+step 15
+forwards: 1,14
+backwards: 2-13
+
